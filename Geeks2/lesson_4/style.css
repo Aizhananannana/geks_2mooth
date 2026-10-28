@@ -1,0 +1,17 @@
+body {
+    background-color: #88dd2d;
+    display: flex;
+    gap: 48px;
+    flex-wrap: wrap;
+    justify-content: start;
+    margin: 20px;
+    
+}
+
+.block {
+    width: 200px;
+    height: 150px;
+    padding: 10px;
+    background-color: #9dcb1d;
+    font-size: 36px;
+}
